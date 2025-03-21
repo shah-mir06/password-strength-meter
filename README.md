@@ -8,10 +8,10 @@ The **Password Strength Meter** is a simple yet effective tool built with Python
 
 ## Features  
 
-🔹 **Checks Password Strength** – Evaluates passwords based on key security factors.  
-🔹 **Interactive UI** – Built with Streamlit for a simple and user-friendly experience.  
-🔹 **Real-Time Feedback** – Provides instant feedback on password strength.  
-🔹 **Beginner-Friendly** – Designed for learning fundamental Python concepts.  
+**Checks Password Strength** – Evaluates passwords based on key security factors.  
+**Interactive UI** – Built with Streamlit for a simple and user-friendly experience.  
+**Real-Time Feedback** – Provides instant feedback on password strength.  
+**Beginner-Friendly** – Designed for learning fundamental Python concepts.  
 
 ---
 
@@ -19,10 +19,10 @@ The **Password Strength Meter** is a simple yet effective tool built with Python
 
 The tool assigns a **score (0-3)** based on password security measures:  
 
-✔️ **Length (8+ characters)**  
-✔️ **Contains Uppercase Letters**  
-✔️ **Includes Numbers**  
-✔️ **Has Special Characters (!@#$%^&*)**  
+**Length (8+ characters)**  
+**Contains Uppercase Letters**  
+**Includes Numbers**  
+**Has Special Characters (!@#$%^&*)**  
 
 Based on the score, the password is classified as:  
 
